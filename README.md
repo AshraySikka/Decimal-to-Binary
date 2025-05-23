@@ -10,11 +10,11 @@ This Python script takes a **decimal number** as input and converts it to its **
 
 ## 📁 File
 
-- `decimal_to_binary.py`: Contains the binary conversion logic.
+- `decimal-to-binary.py`: Contains the binary conversion logic.
 
 ## ▶️ How to Run
 
 Make sure Python is installed, then run the script:
 
 ```bash
-python decimal_to_binary.py
+python decimal-to-binary.py
